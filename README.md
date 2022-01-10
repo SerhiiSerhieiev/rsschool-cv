@@ -1,3 +1,3 @@
 # rsschool-cv
 
-Serhii
+hi everyone. my name is Serhii
