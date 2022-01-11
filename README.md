@@ -1,5 +1,1 @@
-rsschool-cv
-
-# my 1 project
-
-## my name is Serhii
+[https://SerhiiSerhieiev.github.io/rsschool-cv/cv](https://serhiiserhieiev.github.io/rsschool-cv/)
