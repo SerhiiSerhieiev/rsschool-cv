@@ -1,21 +1,21 @@
-**Serhii Serheieiev**
+#Serhii Serheieiev#
 
-Contacts
+**Contacts**
 
-- Location Dunaujvaros, Hungary
-- Phone +36 70 221 46 80
-- email (a4to4toa@gmail.com)
-- GitHub SerhiiSerhieiev
+- Location :Dunaujvaros, Hungary
+- Phone :+36 70 221 46 80
+- [email](a4to4toa@gmail.com)
+- GitHub : (SerhiiSerhieiev)
 
-About me
+**About me**
 
 - Try to learn HTML & CSS
 
-Education
+**Education**
 
 - Donetskiy National Technical University
 
-Langueges
+**Langueges**
 
 - Russian - Native
 - Ukrainian - Native
